@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul-Salam 
 - 👀 I’m currently looking for a SWE internship
-- 🌱 I’m a sophomore CS major
+- 🌱 I’m a sophomore CS and Data Science major
 - 💞️ I’m looking to collaborate on more projects for my portfolio 
 - 📫 How to reach me www.linkedin.com/in/abdul-salam-zakaria-93469926b
 
