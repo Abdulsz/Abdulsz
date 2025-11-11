@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdul-Salam<br>🌱 I’m a junior CS and Data Science major<br>💞️ I’m looking to collaborate on more projects for my portfolio<br>📫 How to reach me www.linkedin.com/in/abdul-salam-zakaria-93469926b
+👋 Hi, I’m Abdul-Salam<br>🌱 I’m a Senior CS and Data Science major<br>💞️Currently building Gusmarketplace - A marketplace for Augustana College students<br>I love exploring new technical challenges and would love to collaborate<br>📫 How to reach me www.linkedin.com/in/abdul-salam-zakaria-93469926b
 
 
 ## 🌐 Socials:
